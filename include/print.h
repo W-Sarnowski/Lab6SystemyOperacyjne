@@ -3,5 +3,5 @@
 
 void print();
 
-#endif PRINT_H
+#endif
 
